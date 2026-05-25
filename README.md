@@ -11,7 +11,7 @@ A cross-platform Tic-Tac-Toe game with artificial intelligence opponent using th
     Score Tracking: Keeps track of wins, losses, and draws
     Material Design 3: Modern and beautiful user interface
     Cross-Platform: Works on Windows, Linux, and Android
-
+androidrepo:https://github.com/rorka900-os/TicTacToeAI-android
 🚀 How It Works
 
 The game uses the Minimax algorithm with alpha-beta pruning to calculate the best possible move for the AI player. This makes the AI nearly unbeatable on "Hard" difficulty.
